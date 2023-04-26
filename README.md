@@ -1,6 +1,6 @@
 # C Piscine | 42Málaga
 
-Este repositorio contiene el código desarrollado durante el periodo de selección (conocido como Piscina) del campus [42Malaga](https://www.42malaga.com/). 
+Este repositorio contiene el código desarrollado durante el proceso de selección (conocido como Piscina) del campus [42Malaga](https://www.42malaga.com/). 
 
 
 ## Sobre 42

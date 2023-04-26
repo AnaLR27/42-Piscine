@@ -46,18 +46,18 @@ Esta tabla muestra mi progreso durante la piscina, los proyectos realizados (con
 
 |#	|PROYECTO					|LANGUAGE	|DURACION		|CALIFICACIÓN				|
 |:-:|:--						|:-:		|--:			|--:						|
-|00	|[Shell 00]()       		|Shell		|about 1 day	|100% :heavy_check_mark:	|
-|01	|[Shell 01]()               |Shell		|about 1 day	|70% :heavy_check_mark:	    |
+|00	|Shell 00       		    |Shell		|about 1 day	|100% :heavy_check_mark:	|
+|01	|Shell 01                   |Shell		|about 1 day	|70% :heavy_check_mark:	    |
 |02	|[C 00](./c00/)             |C			|about 1 day	|100% :heavy_check_mark:	|
 |03	|Exam 00					|C			|about 4 hours	|0% :heavy_check_mark:		|
-|04	|[Rush 00]()		        |C			|2 days			|0% :x:						|
+|04	|Rush 00		            |C			|2 days			|0% :x:						|
 |06	|[C 01](./c01/)             |C			|about 1 day	|100% :heavy_check_mark:	|
 |05	|Exam 01					|C			|about 4 hours	|0% :x:		                |
-|07	|[Rush 01]()		        |C			|2 days			|0% :x:						|
+|07	|Rush 01		            |C			|2 days			|0% :x:						|
 |08	|[C 02](./c02/)		        |C			|about 1 day	|75% :heavy_check_mark:		|
 |09	|[C 03](./c03/)		        |C			|about 1 day	|100% :heavy_check_mark:	|
 |10	|Exam 02					|C			|about 4 hours	|70% :heavy_check_mark:		|
-|11	|[Rush 02]()	            |C			|2 days			|0% :x:					    |
+|11	|Rush 02	                |C			|2 days			|0% :x:					    |
 |12	|[C 04](./c04/)		        |C			|about 1 day	|70% :heavy_check_mark:	    |
 |13	|[C 06](./c06/)		        |C			|about 1 day	|70% :heavy_check_mark:	    |
 |16	|Final Exam					|C			|about 8 hours	|54% :heavy_check_mark:		|

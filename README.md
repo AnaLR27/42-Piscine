@@ -46,8 +46,8 @@ Esta tabla muestra mi progreso durante la piscina, los proyectos realizados (con
 
 |#	|PROYECTO					|LANGUAGE	|DURACION		|CALIFICACIÓN				|
 |:-:|:--						|:-:		|--:			|--:						|
-|00	|[Shell 00](./shell00/)		|Shell		|about 1 day	|100% :heavy_check_mark:	|
-|01	|[Shell 01](./shell01/)     |Shell		|about 1 day	|70% :heavy_check_mark:	    |
+|00	|[Shell 00]()       		|Shell		|about 1 day	|100% :heavy_check_mark:	|
+|01	|[Shell 01]()               |Shell		|about 1 day	|70% :heavy_check_mark:	    |
 |02	|[C 00](./c00/)             |C			|about 1 day	|100% :heavy_check_mark:	|
 |03	|Exam 00					|C			|about 4 hours	|0% :heavy_check_mark:		|
 |04	|[Rush 00]()		        |C			|2 days			|0% :x:						|
